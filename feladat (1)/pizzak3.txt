@@ -1,0 +1,2 @@
+﻿vegetariánus;800;1200
+magyaros;950;1300

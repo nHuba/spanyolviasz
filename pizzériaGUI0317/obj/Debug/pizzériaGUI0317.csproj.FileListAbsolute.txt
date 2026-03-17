@@ -1,0 +1,12 @@
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.csproj.AssemblyReference.cache
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.Pizzéria.resources
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.Properties.Resources.resources
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.csproj.GenerateResource.cache
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.csproj.CoreCompileInputs.cache
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\bin\Debug\pizzériaGUI0317.exe.config
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\bin\Debug\pizzériaGUI0317.exe
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\bin\Debug\pizzériaGUI0317.pdb
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.exe
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.pdb
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.exe.config
+C:\Users\NagyHuba\Desktop\pizzériaGUI0317\obj\Debug\pizzériaGUI0317.Form2.resources
